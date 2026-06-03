@@ -6,7 +6,7 @@
 
 👨‍💻 About Me
 
-- 🔭 Currently building Full-Stack Web Applications
+- 🔭 Currently building Front-End Web Applications
 - 🌱 Learning Advanced Next.js, Authentication & Backend Development
 - 👯 Open to collaborate on MERN Stack Projects
 - 💼 Working as a Freelancer
