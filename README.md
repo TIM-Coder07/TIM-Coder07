@@ -1,47 +1,77 @@
-<h1 align="center">Hey 👋, I'm Taj Ibne Masud</h1>
+<h1 align="center">Hi 👋, I'm T.I.M Sajon</h1><h3 align="center">MERN Stack Developer | Next.js Enthusiast | Freelancer from Bangladesh 🇧🇩</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=27F5D6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Focused+Web+Developer;Building+Modern+and+Responsive+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TIM-Coder07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=27F5D6&center=true&vCenter=true&width=500&lines=A+Passionate+Front-end+Developer;From+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</p>
+👨‍💻 About Me
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaber-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashfakmahmuddev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> 
+- 🔭 Currently building Full-Stack Web Applications
+- 🌱 Learning Advanced Next.js, Authentication & Backend Development
+- 👯 Open to collaborate on MERN Stack Projects
+- 💼 Working as a Freelancer
+- 🎯 Goal: Become a Professional Full-Stack Developer
+- 💬 Ask me about React, Next.js, JavaScript, Firebase, MongoDB & Express.js
+- 📫 Reach me at: sajonwdd72566@gmail.com
+- ⚡ Fun Fact: I enjoy solving coding challenges and debugging complex problems.
 
-<p align="center">
-  <img src="https://shorturl.at/V0n5v" height="400" width="600" alt="Developer Coding">
-</p>
+---
 
-### 👨‍💻 About Me
+🚀 Tech Stack
 
-* 🔭 Currently working on **[Orebi – E‑commerce Project](https://e-commerce-orebi-roan.vercel.app)**
-* 🌱 Learning **React JS** & modern frontend workflows
-* 👯 Open to collaborating on **React-based projects**
-* 🤝 Looking for guidance in **E‑commerce development**
-* 📝 Writing articles on **[dev.to](https://dev.to/ashfakmahmuddev)**
-* 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS**
-* 📫 Reach me at **[sajonwdd72566@gmail.com](mailto:sajonwdd72566@gmail.com)**
-* ⚡ Fun fact: *I think I’m funny 😄*
+Frontend
 
-<h3 align="left">🌐 Connect with Me</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>---
+
+🌟 Featured Projects
+
+📚 Online Book Shop
+
+- Next.js
+- TypeScript
+- Firebase Authentication
+- Tailwind CSS
+- React Hook Form
+- Zod Validation
+
+🔗 Live Demo: https://boipokastore.netlify.app
+
+🔗 GitHub: https://github.com/TIM-Coder07/Book_Store
+
+---
+
+🌐 Connect With Me
 
 <p align="left">
-  <a href="https://fb.com/ashfakmahmuddev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
-  </a>
-  <a href="https://linkedin.com/in/ashfakmahmuddev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-  </a>
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a><a href="YOUR_FACEBOOK_URL">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+</p>---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashfakmahmuddev&theme=dark&hide_border=false" alt="ashfakmahmuddev Streak" />
-</div>
+📊 GitHub Stats
 
-<h3 align="center" style="color: #f39c12; font-family: 'Arial', sans-serif;">
-⭐ Thanks for visiting my profile!
-</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TIM-Coder07&show_icons=true&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TIM-Coder07&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM-Coder07&layout=compact&theme=tokyonight" />
+</p>---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
