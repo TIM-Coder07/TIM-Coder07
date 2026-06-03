@@ -68,7 +68,6 @@
 - Firebase Authentication
 - Tailwind CSS
 - React Hook Form
-- Zod Validation
 
 🔗 Live Demo: https://boipokastore.netlify.app
 
