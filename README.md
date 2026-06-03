@@ -64,7 +64,7 @@
 ### 📚 Online Book Shop
 
 - Next.js
-- TypeScript
+- React.js
 - Firebase Authentication
 - Tailwind CSS
 - React Hook Form
