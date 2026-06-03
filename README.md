@@ -1,91 +1,125 @@
-<h1 align="center">Hi 👋, I'm T.I.M Sajon</h1>
+<h1 align="center">Hi 👋, I'm Taj Ibne Masud</h1>
 
-<h3 align="center">MERN Stack Developer | Next.js Enthusiast | Freelancer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Frontend Developer (MERN Stack) | React.js | Next.js | Express.js | AI-Assisted Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=27F5D6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Focused+Web+Developer;Building+Modern+and+Responsive+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
+📍 Dhaka, Bangladesh | 📞 +0881625587701 | 📧 sajonwdd72566@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TIM-Coder07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0504dcfb362f8283e0c7e8849cbff69e78d0cf81e718cbd85181b5a5caa34745/68747470733a2f2f73686f727475726c2e61742f56306e3576"
-       alt="Developer Coding"
-       width="700" />
+🔗 <a href="https://www.linkedin.com/in/taj-ibne-masud">LinkedIn</a> | 
+🔗 <a href="https://github.com/TIM-Coder07">GitHub</a> | 
+🌐 <a href="https://taj-dev-portfolio.vercel.app">Portfolio</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Career Objective
 
-- 🔭 Currently building Front-End Web Applications
-- 🌱 Learning Advanced Next.js, Authentication & Backend Development
-- 👯 Open to collaborate on MERN Stack Projects
-- 💼 Working as a Freelancer
-- 🎯 Goal: Become a Professional Full-Stack Developer
-- 💬 Ask me about React, Next.js, JavaScript, Firebase, MongoDB & Express.js
-- 📫 Reach me at: **sajonwdd72566@gmail.com**
-- ⚡ Fun Fact: I enjoy solving coding challenges and debugging complex problems.
+I am a Front-End Web Designer and Developer with expertise in creating modern, responsive, and user-centered websites using HTML, CSS, JavaScript, React, and UI/UX best practices.  
+
+I specialize in building clean, functional, and high-performing digital experiences, including landing pages, portfolio websites, and e-commerce layouts.  
+
+I am recognized for strong problem-solving skills, attention to detail, and effective communication, ensuring every project is optimized, visually appealing, and aligned with client goals.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
 ### Frontend
+HTML5, CSS3, JavaScript ES6+, React.js, Next.js, React Router, Context API
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
+### UI / Styling
+Tailwind CSS, Bootstrap, DaisyUI, shadcn/ui, Material UI, Framer Motion, Responsive Design, Accessibility
 
-### Backend
+### Backend / MERN
+Node.js, Express.js, MongoDB, REST API, CRUD, JWT, Firebase Auth, Better Auth, Server-side validation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
+### Forms / Data Handling
+Fetch API, React Hook Form, Pagination, Filtering, Search, Protected Routes, Role-based UI, Error Handling
 
-### Database
+### Tools / Deployment
+Git, GitHub, Vercel, Netlify, Render, npm, Chrome DevTools, Figma-to-code, ESLint, Prettier, VS Code
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+### AI Workflow
+ChatGPT, Gemini, GitHub Copilot, Cursor, Antigravity, Prompt Engineering, AI Debugging, Documentation, Test-case generation
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Experience
+
+### MERN Stack Developer Trainee | Programming Hero / Self-Led Projects (Jan 2025 - Present)
+
+- Completed 800+ hours of project-based learning in JavaScript, React, Next.js, Node.js, Express.js, MongoDB, authentication, API integration, deployment, debugging, and Git workflow.
+- Built and deployed 12+ frontend/full-stack projects with mobile-first design, reusable components, protected routes, REST API integration, and version control.
+- Used AI tools for requirement analysis, debugging, refactoring suggestions, documentation, and interview preparation while manually validating all generated code.
+
+---
+
+## 📌 Projects
+
+### 🛒 Fast Basket | Full-Stack E-Commerce Platform
+**Tech:** React.js, Node.js, Express.js, MongoDB, TypeScript, JWT, Tailwind CSS
+
+- Developed full-stack e-commerce platform with authentication and product management
+- Implemented search, filtering, and category-based navigation
+- Ensured mobile responsiveness, validation, and API error handling
+
+🔗 Live: https://fast-basket.vercel.app  
+🔗 GitHub: https://github.com/abufahimkhan/fast-basket  
+
+---
 
 ### 📚 Online Book Shop
+**Tech:** Next.js, TypeScript, Firebase Auth, Tailwind CSS, React Hook Form, Zod
 
-- Next.js
-- React.js
-- Firebase Authentication
-- Tailwind CSS
-- React Hook Form
+- Built full-stack bookstore with authentication and catalog system
+- Implemented search and reusable component architecture
+- Mobile-first responsive UI for all devices
 
-🔗 Live Demo: https://boipokastore.netlify.app
-
-🔗 GitHub: https://github.com/TIM-Coder07/Book_Store
+🔗 Live: https://boipokastore.netlify.app  
+🔗 GitHub: https://github.com/TIM-Coder07/Book_Store  
 
 ---
 
-## 🌐 Connect With Me
+### 🎓 EduCourse Platform
+**Tech:** React.js, Redux Toolkit, REST API, Tailwind CSS, React Router, Vercel
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+- Built course browsing and enrollment system with cart flow
+- Implemented route protection and state management
+- Improved performance score from 68 → 91 (Lighthouse)
 
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-</p>
+🔗 Live: https://tutor-app-client-theta.vercel.app  
+🔗 GitHub: https://github.com/TIM-Coder07/assignment_09_Client  
+
+---
+
+## 🎓 Education
+
+**Diploma in Ceramics Technology**  
+Bangladesh Institute of Glass & Ceramics (Expected 2024)
+
+Relevant Coursework: Web Development, UI/UX Design
+
+---
+
+## 📜 Certifications
+
+- Complete Web Development with MERN Stack - Programming Hero (2026)
+- Responsive Web Design / JavaScript
+
+---
+
+## 🌐 Languages
+
+- Bangla - Native  
+- English - Professional Working Proficiency  
+
+---
+
+## 🤝 Soft Skills
+
+Problem Solving • Self-learning • Communication • Team Collaboration • Documentation • Deadline Management • Project Presentation
 
 ---
 
