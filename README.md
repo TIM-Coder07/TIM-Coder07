@@ -71,28 +71,37 @@ I am a passionate **Frontend / MERN Stack Developer** who loves building modern,
 
 ## 📌 Featured Projects
 
-### 🛒 Fast Basket (E-Commerce)
-- React, Node.js, Express, MongoDB, JWT  
-- Search, filtering, authentication system  
+---
 
-🔗 Live: https://fast-basket.vercel.app  
+### 🛒 Fast Basket (E-Commerce)
+🚀 A full-stack e-commerce platform with authentication and product management.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT  
+**Features:** Search, filtering, secure login system
+
+🔗 Live Demo: https://fast-basket.vercel.app  
 
 ---
 
 ### 📚 Online Book Shop
-- Next.js, TypeScript, Firebase Auth, Tailwind  
-- Responsive UI + search system  
+📖 A modern book store web app with clean UI and fast performance.
 
-🔗 Live: https://boipokastore.netlify.app  
+**Tech Stack:** Next.js • TypeScript • Firebase Auth • Tailwind CSS  
+**Features:** Responsive design, smart search, authentication
+
+🔗 Live Demo: https://boipokastore.netlify.app  
 
 ---
 
 ### 🎓 EduCourse Platform
-- React, Redux Toolkit, REST API  
-- Cart system + routing + performance optimized  
+🎯 A scalable course platform with cart and optimized state management.
 
-🔗 Live: https://tutor-app-client-theta.vercel.app  
+**Tech Stack:** React • Redux Toolkit • REST API  
+**Features:** Course cart system, routing, performance optimized UI
 
+🔗 Live Demo: https://tutor-app-client-theta.vercel.app  
+
+---
 ---
 
 ## 🎓 Education
