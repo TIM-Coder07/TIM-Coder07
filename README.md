@@ -118,12 +118,4 @@ Bangladesh Institute of Glass & Ceramics (2024)
 
 ---
 
-## 🌟 Fun Section
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
-
----
-
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
