@@ -126,12 +126,16 @@ Bangladesh Institute of Glass & Ceramics (2024)
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-- 🎓 Complete Web Development Course — Programming Hero
-- 🎓 JavaScript (ES6+) & React Development
-- 🎓 Responsive Web Design
-- 🎓 Git & GitHub Essentials
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TIM-Coder07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=TIM-Coder07&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM-Coder07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
