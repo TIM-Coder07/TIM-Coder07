@@ -53,7 +53,7 @@ I am a passionate **Frontend / MERN Stack Developer** who loves building modern,
 
 ### AI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=ai" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,docker,git,vscode" />
 </p>
 
 ---
