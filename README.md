@@ -126,15 +126,10 @@ Bangladesh Institute of Glass & Ceramics (2024)
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TIM-Coder07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=TIM-Coder07&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIM-Coder07&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=TIM-Coder07&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -143,6 +138,7 @@ Bangladesh Institute of Glass & Ceramics (2024)
 
 - 🇧🇩 Bengali — Native
 - 🇬🇧 English — Professional Working Proficiency
+- Hindi — Professional Working Proficiency
 
 ---
 
