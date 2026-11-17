@@ -79,7 +79,7 @@ I am a passionate **Frontend / MERN Stack Developer** who loves building modern,
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT  
 **Features:** Search, filtering, secure login system
 
-🔗 Live Demo: https://fast-basket.vercel.app  
+🔗 Live Demo: https://fast-basket.com  
 
 ---
 
