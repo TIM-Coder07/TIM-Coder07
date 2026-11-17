@@ -5,7 +5,7 @@ Frontend Developer (MERN Stack) | React.js | Next.js | Express.js | AI-Assisted 
 </h3>
 
 <p align="center">
-📍 Dhaka, Bangladesh | 📧 sajonwdd72566@gmail.com  
+📍 Dhaka, Bangladesh | 📧 taj.ibne.masud@gmail.com  
 </p>
 
 <p align="center">
